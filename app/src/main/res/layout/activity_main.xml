@@ -20,7 +20,15 @@
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Hint"
-        android:layout_margin="16dp" />
+        android:layout_margin="16dp"
+        android:hint="Hint" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Button"
+        android:textColor="#ddff00" />
+
 
 </LinearLayout>
